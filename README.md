@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Soumya Kanti Nag
+- 👀 I’m interested in data processing and analysis 
+- 🌱 I’m currently learning data analytics
